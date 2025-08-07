@@ -1,0 +1,7 @@
+
+config.txt
+*.csv
+__pycache__/functions.cpython-312.pyc
+*.pyc
+/__pycache__
+*.html
